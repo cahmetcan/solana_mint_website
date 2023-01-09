@@ -1,8 +1,3 @@
-
-## To thank me with a small SOL tip :]
-
-`cpdrXvvp5eLYMA3Xae4323B6PuPdSSMdQWXozt94HtV
-
 ## Getting Set Up
 
 ### Prerequisites
